@@ -3,7 +3,7 @@
 
 ## Overview
 
-[OAuth 2.0](https://oauth.net/) Server Side flow is implemented to access a user's Google+ account and echoe back proof of the authorization.
+[OAuth 2.0](https://oauth.net/) Server Side flow is implemented to access a user's Google+ account and echo back proof of the authorization.
 
 ## Link to Assignment
 
